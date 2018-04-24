@@ -3,8 +3,10 @@ Genarating a Report of overview of the files under a given directory. It prints 
 
 
 # Run the script with regular Expression
-perl task.pl <dir> "<regular Expression in quotes >"
-ex:- perl run.pl /bin  "*t"
+perl task.pl <dir> "<regular Expression in quotes >" 
+ example 1:-
+ 
+perl run.pl /bin  "*t"
  
 # Run this script without without regular expression
 
