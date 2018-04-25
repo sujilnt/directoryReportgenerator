@@ -1,5 +1,5 @@
 # directoryReportgenerator
-Genarating a Report of overview of the files under a given directory. It prints filename , user and the size .
+Genarating a Report of overview of the files under a given directory. It prints filename , user and the size . Main works good for linux machines
 
 
 # Run the script with regular Expression
